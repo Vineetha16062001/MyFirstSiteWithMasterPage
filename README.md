@@ -1,5 +1,3 @@
-Here's your updated README — copy and paste it:
-
 Personal Portfolio Website — ASP.NET
 A multi-page personal portfolio web application built with ASP.NET Web Forms, showcasing my background, skills, projects, and a fully functional user authentication system.
 
